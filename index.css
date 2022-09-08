@@ -1,0 +1,23 @@
+.cabecalho {
+    background-color: rgb(162, 255, 139);
+ }
+
+tbody>tr {
+ background-color: rgb(162, 255, 139);
+ color: rgb(0, 0, 0);
+}
+
+.container {
+    background-color: rgb(12, 151, 8);
+    color: rgb(0, 0, 0);
+    width: 100vw;
+    font-size: 40px;
+}
+h1 {
+    font-size: 20px;
+    background-color: rgb(115, 248, 175);
+}
+h2 {
+    font-size: 30px;
+    background-color: rgb(115, 248, 175);
+}
